@@ -6,12 +6,13 @@ body{
 #Footer{
     position: absolute;
     bottom: 0;
-    right: 500pt;
+    margin-left: 590px;
     color: rgb(64, 8, 219);
     font-family: 'Sigmar';
-    text-align:left
 }
-
+.button{
+  margin-left: 38%; 
+}
 
 
 /* CSS */
